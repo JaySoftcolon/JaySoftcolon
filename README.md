@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jay.
 - 👀 I’m interested in making unique software solutions.
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on React Js Open source
+- 💞️ I’m looking to collaborate on React Js Open source projects.
 - 📫 How to reach me jayjasani.softcolon@gmail.com
 
 <!---
